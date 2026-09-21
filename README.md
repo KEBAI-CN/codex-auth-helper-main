@@ -49,7 +49,7 @@
 - **彻底的代码闭环**：您可以随时通过浏览器开发者工具 (F12) 检查 `background.js` 和 `popup.js`。没有引入任何外部不可控 CDN 第三方库，所有静态资源均本地打包。
 
 
-##视频教程（https://www.bilibili.com/video/BV16sNj6ZEPv/?spm_id_from=333.1391.0.0&vd_source=853d94d2f54617af6907dc6627633b1d）
+##视频教程（ https://www.bilibili.com/video/BV16sNj6ZEPv/?spm_id_from=333.1391.0.0&vd_source=853d94d2f54617af6907dc6627633b1d ）
 
 ---
 
